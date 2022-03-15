@@ -392,6 +392,9 @@
 |WOWOWプラス			|252		|TV		|
 |日本映画専門ch			|255		|TV		|
 |ディズニーch			|256		|TV		|
+|BS松竹東急				|260		|TV		|
+|BSJapanext				|263		|TV		|
+|BSよしもと				|265		|TV		|
 
 ※ネットワークIDは4固定  
 ※仕様書が古いので[Wikipedia](https://ja.wikipedia.org/wiki/BS放送事業者一覧 "BS放送事業者一覧")を参考にした 

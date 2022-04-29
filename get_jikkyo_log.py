@@ -76,6 +76,14 @@ channel_ids = {
         222: 'jk222',
         # BSアニマックス
         236: 'jk236',
+        # WOWOWプラス
+        252: 'jk252',
+        # BS松竹東急
+        260: 'jk260',
+        # BSJapanext
+        263: 'jk263',
+        # BSよしもと
+        265: 'jk265',
     },
     NetType.CS: {
         # CS

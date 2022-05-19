@@ -158,7 +158,7 @@ def get_jikkyo_log(channel_id: str, start_time: datetime.datetime, end_time: dat
         'endtime': str(int(end_time.timestamp())),
         'format': 'xml'
     }
-    xml = requests.get(f'{url_api}/api/kakolog/{channel_id}', params=params)
+    xml = requests.get(f'{url_api}api/kakolog/{channel_id}', params=params)
     return xml.text
 
 
